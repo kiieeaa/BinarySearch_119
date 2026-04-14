@@ -13,7 +13,17 @@ void input()
         cin >> nPanjang;
 
         if (nPanjang <= 10)
+        {
             break;
+        
+        }
+        else
+        {
+            cout << "\n[!] jumlah element tidak boleh lebih dari 10. silahkan coba lagi.\n\n";      
+        }
+    }
+
+        
+            
        
     }
-}
