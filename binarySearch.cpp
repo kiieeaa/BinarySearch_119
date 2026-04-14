@@ -23,6 +23,11 @@ void input()
         }
     }
 
+    cout << "\n==================\n";
+    cout << " masukan element array \n";
+    cout << "==================\n";
+    
+
         
             
        
